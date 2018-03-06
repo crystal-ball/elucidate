@@ -1,0 +1,19 @@
+# Vendor Libraries
+#################################
+node_modules
+.vscode
+
+# Logs
+#################################
+*.log
+
+# Published
+#################################
+dist
+es
+esnext
+
+# Documentation
+#################################
+build
+monitor
